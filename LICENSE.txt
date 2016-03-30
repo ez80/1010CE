@@ -1,0 +1,11 @@
+The NEC License v1.5
+Copyright (c) 2016, KingInfinity
+Derived from a work originally created by KingInfinity.
+
+You may not sell any portion of this software or use it for commercial use. However, the demonstration of the software at a commercial event is permitted. You are permitted to modify the software for personal use, or for distribution following the guidelines below.
+
+Redistributions online, or using methods involving the internet, is prohibited unless significant alteration is made to the software, or unless express permission is given by the author. Significant alteration is defined as any addition or removal to the functionality of the software. Any redistrubitions must include a copy of this license. Redistributing verbatim copies of the software is not permitted. The author reserves the right to deny any redistribution, and to request removal of any redistribution if the privilege was abused or if permission was not granted, or for any other reason necessary to retain proper ownership over the software, be it modified or a verbatim copy. Sublicensing is not permitted.
+
+The above copyright notice and this permission notice shall be included in all redistributions or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

@@ -1,0 +1,5 @@
+Acknowledgements:
+I'd like to thank:
+MateoConLechuga for creating the C toolchain and libraries (and everyone else who helped)
+Jacobly for help with syntax
+KermMartian for being friendly and helpful, and of course for Cemetech.
