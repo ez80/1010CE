@@ -1,3 +1,5 @@
+1010!
+-----------------------------------------------------------------
 Hello! Welcome to 1010! by KingInfinity for the TI-84+CE!
 1010! is a puzzle game, originally for the iPhone and similar to Tetris, where you place tiles on a 10 by 10 grid and try to clear rows and columns. Try to survive as long as possible!
 
